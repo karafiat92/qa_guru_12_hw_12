@@ -1,0 +1,26 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "tests.RegistrationFormTests",
+    "children" : [ {
+      "name" : "positiveValuesRegistrationForm",
+      "uid" : "d4c35e08fcea27e4",
+      "parentUid" : "e71ead4be1fd90ce2a959bf9fefd131c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655636580936,
+        "stop" : 1655636614974,
+        "duration" : 34038
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "tests.RegistrationFormTests"
+  } ]
+}

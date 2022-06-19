@@ -1,0 +1,30 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-DFNM9R3",
+    "children" : [ {
+      "name" : "5376@DESKTOP-DFNM9R3.Test worker(14)",
+      "children" : [ {
+        "name" : "Регистрация с позитивными рандомными данными",
+        "uid" : "d4c35e08fcea27e4",
+        "parentUid" : "09da54286bfc8373ef4821541090a6a3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1655636580936,
+          "stop" : 1655636614974,
+          "duration" : 34038
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "09da54286bfc8373ef4821541090a6a3"
+    } ],
+    "uid" : "1a493243e3a0c99e279555f91066669a"
+  } ]
+}

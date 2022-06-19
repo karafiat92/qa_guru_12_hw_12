@@ -1,0 +1,26 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "tests.RegistrationFormTests",
+    "children" : [ {
+      "name" : "Регистрация с позитивными рандомными данными",
+      "uid" : "d4c35e08fcea27e4",
+      "parentUid" : "fd7e891b1893244896ec3a660dd7b16f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655636580936,
+        "stop" : 1655636614974,
+        "duration" : 34038
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "fd7e891b1893244896ec3a660dd7b16f"
+  } ]
+}
